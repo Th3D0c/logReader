@@ -4,8 +4,6 @@
 #include <iostream>
 //#include <fstream>
 
-//#include <cstdio>
-
 
 #include "../includes/IDriver.interface.h"
 #include "../includes/HDriver_type1.class.h"
